@@ -1,0 +1,91 @@
+body {
+    background-color: aliceblue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+img {
+    background-color: aliceblue;
+    width: 35%;
+}
+
+.welcome {
+    position: absolute;
+    top: 35%;
+    width: 1000px;
+    margin: auto 150px;
+}
+
+.login {
+    position: absolute;
+    top: 30%;
+    left: 60%;
+    width: 28%;
+    height: 40%;
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);;
+}
+
+#email {
+    display: block;
+    width: 65%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 25px;
+    margin-bottom: 10px;
+    background-color: #FFFF;
+}
+
+#password {
+    display: block;
+    width: 65%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: #FFFF;
+}
+
+.Log-In {
+    display: block;
+    width: 65%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: blue;
+    color: #FFFF;
+    font-weight: bold;
+}
+
+.Forgot-Password {
+    display: block;
+    width: 65%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: #FFFF;
+    color: blue;
+}
+
+.Create-New-Account {
+    display: block;
+    width: 65%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: green;
+    color: #FFFF;
+    font-weight: bold;
+}
